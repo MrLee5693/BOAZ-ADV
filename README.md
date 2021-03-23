@@ -78,9 +78,3 @@
   'ChZDSUhNMG9nS0VJQ0FnSURZb3BTQmZBEAE': 'https://lh5.googleusercontent.com/p/AF1QipMBBQ-klGVXz-T9no7hdy1mX0FDFt8P2uau44TY=w750-h750-p-k-no',
   'ChdDSUhNMG9nS0VJQ0FnSUNZNG83QjlnRRAB': 'https://lh5.googleusercontent.com/p/AF1QipMF4VvHo9MqpDK5iVXehdtIq_85UdZvey6g_iAK=w750-h750-p-k-no'}}
 ```
-
-
-#### Sample item_meta.json :
-```
-{'공릉순두부': {'category': '음식점'}, '공릉역 찬이네': {'category': '음식점'}}
-```
