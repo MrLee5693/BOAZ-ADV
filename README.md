@@ -14,7 +14,7 @@ Pytorch implementation of [Attentional Content & Collaborate Model](https://dl.a
 
 - python 3.8.3
 
-  - pytorch 1.60
+  - tensorflow 2.5.0
   - numpy 1.18.5 
   - pandas 1.1.2
 
