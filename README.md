@@ -10,7 +10,12 @@ Pytorch implementation of [Attentional Content & Collaborate Model](https://dl.a
 
 ## Our Model
 ![accm](https://user-images.githubusercontent.com/52459996/127706731-304afe48-a73b-4147-9d4b-45b105fb7f72.jpg)
+## Experiment
+![loss](https://user-images.githubusercontent.com/52459996/127724994-a4acfb83-2b51-4ddf-8d2b-399a46a0ee7e.jpg)
+
+
 ### Prerequisites 
+
 
 - python 3.8.3
 
